@@ -13,5 +13,5 @@ function rw_lettering_js() {
 		wp_deregister_script('lettering'); // deregister
 		wp_enqueue_script('lettering', plugins_url('/js/jquery.lettering.js', __FILE__), array("jquery"), '0.6.1'); 
 } 
-add_action('init', 'rw_lettering_js');
+add_action('wp_enqueue_scripts', 'rw_lettering_js');
 ?>

@@ -3,7 +3,7 @@ Contributors: Ramoonus
 Donate link: http://www.ramoonus.nl
 Tags: jquery, letteringjs, lettering, javascript, typography
 Requires at least: 3.2.0
-Tested up to: 3.3.0
+Tested up to: 3.9.1
 Stable tag: 0.6.1
 
 lightweight, easy to use Javascript <span> injector for radical Web Typography
